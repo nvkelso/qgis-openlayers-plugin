@@ -35,7 +35,7 @@ If you include these basemaps in your final map layout, make sure to credit the 
 
 ##Extras
 
-Need a basemap that reprojects? Check out the "goodies" folder here.
+Need a basemap that reprojects out of web Mercator on the fly? Check out the "goodies" folder here.
 
 ## Bug tracker and Wiki
 
