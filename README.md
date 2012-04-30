@@ -4,13 +4,13 @@
 
 It allows you to add basemaps to QGIS from:
 
-1. Google Physical, Google Streets, Google Hybrid, Google Satellite
-1. OpenStreetMap
-1. OpenCycleMap, OCM Landscape, OCM Public Transport
-1. Yahoo Street, Yahoo Hybrid, Yahoo Satellite
-1. Bing Road, Bing Aerial, Bing Aerial with labels
-1. Apple iPhoto map
-1. Stamen Toner/OSM, Stamen Watercolor/OSM, Stamen Terrain-USA/OSM
+1. **Google** Physical, Google Streets, Google Hybrid, Google Satellite
+1. **OpenStreetMap**
+1. **OpenCycleMap**, OCM Landscape, OCM Public Transport
+1. **Yahoo** Street, Yahoo Hybrid, Yahoo Satellite
+1. **Bing** Road, Bing Aerial, Bing Aerial with labels
+1. **Apple** iPhoto map
+1. **Stamen** Toner/OSM, Stamen Watercolor/OSM, Stamen Terrain-USA/OSM
 
 ##Installation
 
