@@ -5,6 +5,10 @@ qgis-openlayers-plugin is a QGIS[http://www.qgis.org/] plugin embedding OpenLaye
 
 ==Installation
 
+Minimum QGIS version seems to be 1.7.4?
+
+Does not work with 1.7.0 due to missing OSGEO python dependencies.
+
 === Bug tracker and Wiki
  http://hub.qgis.org/projects/openlayers
 
