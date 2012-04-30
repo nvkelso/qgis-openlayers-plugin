@@ -8,7 +8,7 @@ It allows you to add basemaps to QGIS from Google, Yahoo, Bing, and other tiled 
 
 Installation is simple in recent versions of QGIS Ð just go to Plugins -> Fetch Python PluginsÉ, click ÔAdd 3rd Party RepositoriesÕ in the repositories tab, and search for and install ÔOpenLayers PluginÕ in the ÔPluginsÕ tab. Restart QGIS, and find your new menu under Plugins -> OpenLayers Plugin. When you pan and zoom, QGIS will automatically update the linked basemap layer.
 
-[Read more at indicatrix blog È](http://indicatrix.wordpress.com/2011/04/06/basemaps-in-qgis/)
+[http://indicatrix.wordpress.com/2011/04/06/basemaps-in-qgis/](Read more at indicatrix blog È)
 
 **NOTE:** Minimum QGIS version seems to be 1.7.4?
 
