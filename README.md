@@ -1,6 +1,6 @@
-==About
+##About
 
-qgis-openlayers-plugin is a QGIS[http://www.qgis.org/] plugin embedding OpenLayers functionality.
+**qgis-openlayers-plugin** is a QGIS[http://www.qgis.org/] plugin embedding OpenLayers functionality.
 
 It allows you to add basemaps to QGIS from Google, Yahoo, Bing, and other tiled web map services.
 
@@ -23,29 +23,29 @@ It allows you to add basemaps to QGIS from Google, Yahoo, Bing, and other tiled 
 1. Stamen Watercolor/OSM
 1. 1. Stamen Terrain-USA/OSM
 
-==Installation
+##Installation
 
-Installation is simple in recent versions of QGIS � just go to Plugins -> Fetch Python Plugins�, click �Add 3rd Party Repositories� in the repositories tab, and search for and install �OpenLayers Plugin� in the �Plugins� tab. Restart QGIS, and find your new menu under Plugins -> OpenLayers Plugin. When you pan and zoom, QGIS will automatically update the linked basemap layer.
+Installation is simple in recent versions of QGIS, just go to Plugins -> Fetch Python Plugins, click "Add 3rd Party Repositories" in the repositories tab, and search for and install "OpenLayers Plugin" in the Plugins tab. Restart QGIS, and find your new menu under Plugins -> OpenLayers Plugin. When you pan and zoom, QGIS will automatically update the linked basemap layer.
 
-[http://indicatrix.wordpress.com/2011/04/06/basemaps-in-qgis/](Read more at indicatrix blog �)
+[Read more at indicatrix blog »](http://indicatrix.wordpress.com/2011/04/06/basemaps-in-qgis/)
 
 **NOTE:** Minimum QGIS version seems to be 1.7.4?
 
 Does not work with 1.7.0 due to missing OSGEO python dependencies.
 
-==Extras
+##Extras
 
 Need a basemap that reprojects? Check out the "goodies" folder here.
 
-=== Bug tracker and Wiki
+## Bug tracker and Wiki
 
 http://hub.qgis.org/projects/openlayers
 
-=== Plugin repository
+## Plugin repository
 
 http://build.sourcepole.ch/qgis/plugins.xml
 
-==License
+##License
 
 qgis-openlayers-plugin is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
