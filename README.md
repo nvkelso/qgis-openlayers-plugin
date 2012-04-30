@@ -14,7 +14,14 @@ It allows you to add basemaps to QGIS from:
 
 ##Installation
 
-Installation is simple in recent versions of QGIS, just go to Plugins -> Fetch Python Plugins, click "Add 3rd Party Repositories" in the repositories tab, and search for and install "OpenLayers Plugin" in the Plugins tab. Restart QGIS, and find your new menu under Plugins -> OpenLayers Plugin. When you pan and zoom, QGIS will automatically update the linked basemap layer.
+Installation is simple in recent versions of QGIS, just go to:
+
+* Start QGIS
+* From the Plugins menu -> click Fetch Python Plugins menu item 
+* Click "Add 3rd Party Repositories" in the repositories tab. It'll do some stuff.
+* Search for and install "OpenLayers Plugin" in the Plugins tab. 
+* Restart QGIS, and find your new menu under Plugins -> OpenLayers Plugin. 
+* When you pan and zoom, QGIS will automatically update the linked basemap layer.
 
 [Read more at indicatrix blog »](http://indicatrix.wordpress.com/2011/04/06/basemaps-in-qgis/)
 
