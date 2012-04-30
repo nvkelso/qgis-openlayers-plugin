@@ -1,27 +1,16 @@
 ##About
 
-**qgis-openlayers-plugin** is a QGIS[http://www.qgis.org/] plugin embedding OpenLayers functionality.
+**qgis-openlayers-plugin** is a [QGIS](http://www.qgis.org/) plugin embedding OpenLayers functionality.
 
-It allows you to add basemaps to QGIS from Google, Yahoo, Bing, and other tiled web map services.
+It allows you to add basemaps to QGIS from:
 
-1. Google Physical
-1. Google Streets
-1. Google Hybrid
-1. Google Satellite
+1. Google Physical, Google Streets, Google Hybrid, Google Satellite
 1. OpenStreetMap
-1. OpenCycleMap
-1. OCM Landscape
-1. OCM Public Transport
-1. Yahoo Street
-1. Yahoo Hybrid
-1. Yahoo Satellite
-1. Bing Road
-1. Bing Aerial
-1. Bing Aerial with labels
+1. OpenCycleMap, OCM Landscape, OCM Public Transport
+1. Yahoo Street, Yahoo Hybrid, Yahoo Satellite
+1. Bing Road, Bing Aerial, Bing Aerial with labels
 1. Apple iPhoto map
-1. Stamen Toner/OSM
-1. Stamen Watercolor/OSM
-1. 1. Stamen Terrain-USA/OSM
+1. Stamen Toner/OSM, Stamen Watercolor/OSM, Stamen Terrain-USA/OSM
 
 ##Installation
 
