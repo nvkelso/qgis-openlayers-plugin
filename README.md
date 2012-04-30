@@ -29,6 +29,10 @@ Installation is simple in recent versions of QGIS, just go to:
 
 Does not work with 1.7.0 due to missing OSGEO python dependencies.
 
+##Attribution
+
+If you include these basemaps in your final map layout, make sure to credit the original author.
+
 ##Extras
 
 Need a basemap that reprojects? Check out the "goodies" folder here.
