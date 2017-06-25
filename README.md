@@ -1,4 +1,4 @@
-##About
+## About
 
 **qgis-openlayers-plugin** is a [QGIS](http://www.qgis.org/) plugin embedding OpenLayers functionality.
 
@@ -12,7 +12,7 @@ It allows you to add basemaps to QGIS from:
 1. **Apple** iPhoto map
 1. **Stamen** Toner/OSM, Stamen Watercolor/OSM, Stamen Terrain-USA/OSM
 
-##Installation
+## Installation
 
 Installation is simple in recent versions of QGIS, just go to:
 
@@ -29,11 +29,11 @@ Installation is simple in recent versions of QGIS, just go to:
 
 Does not work with 1.7.0 due to missing OSGEO python dependencies.
 
-##Attribution
+## Attribution
 
 If you include these basemaps in your final map layout, make sure to credit the original author.
 
-##Extras
+## Extras
 
 Need a basemap that reprojects out of web Mercator on the fly? Check out the "goodies" folder here.
 
@@ -45,7 +45,7 @@ http://hub.qgis.org/projects/openlayers
 
 http://build.sourcepole.ch/qgis/plugins.xml
 
-##License
+## License
 
 qgis-openlayers-plugin is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
